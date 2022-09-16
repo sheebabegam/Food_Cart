@@ -1,0 +1,88 @@
+[
+    {
+        "res_id": "1",
+        "route": "/dellme",
+        "res_name": "Dellme restaurant",
+        "res_image": "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?cs=srgb&dl=pexels-chan-walrus-958545.jpg&fm=jpg",
+        "res_address": {
+            "address": "Leominster, MA, USA",
+            "coordinates": {
+                "lat": "42.525482",
+                "lng": "-71.764183"
+            }
+        },
+        "res_phone": "9823782365",
+        "res_type": "veg",
+        "menus": [
+            {
+                "menu_id": "245",
+                "menu_name": "Roti",
+                "menu_image": "https://zaykarecipes.com/wp-content/uploads/2017/02/soft-roti-recipe.jpg",
+                "menu_price": 40,
+                "menu_type": "veg",
+                "menu_available_qty": "1000",
+                "quantity": 1,
+                "gst": 2.80
+                
+            },
+            {
+                "menu_id": "356",
+                "menu_name": "Idly",
+                "menu_image": "https://geekrobocook.com/wp-content/uploads/2021/05/Keto-Idly.jpg",
+                "menu_price": 15,
+                "menu_type": "veg",
+                "menu_available_qty": "1000",
+                "quantity": 1,
+                "gst": 1.05
+                
+            }
+        ]
+
+        
+    },
+
+
+
+
+
+    
+    {
+        "res_id": "2",
+        "route": "/danjelly",
+        "res_name": "Dan jelly restaurant",
+        "res_image": "https://media.cntraveler.com/photos/5a7ef75617acc04e56ef169c/master/pass/Ho-Lee-Fook__2018_HLF_Overhead2.jpg",
+        "res_address": {
+            "address": "Newton, MA, USA",
+            "coordinates": {
+                "lat": "42.341042",
+                "lng": "-71.217133"
+            }
+        },
+        "res_phone": "9823782365",
+        "res_type": "nv",
+        "menus": [
+            {
+                "menu_id": "345",
+                "menu_name": "parotta",
+                "menu_image": "https://wallpapercave.com/wp/wp8365304.jpg",
+                "menu_price": 20,
+                "menu_type": "nv",
+                "menu_available_qty": "1000",
+                "quantity": 1,
+                "gst": 1.40
+                
+            },
+            {
+                "menu_id": "344",
+                "menu_name": "Shawarma",
+                "menu_image": "https://st2.depositphotos.com/3765753/6393/i/950/depositphotos_63934853-stock-photo-turkish-shawarma-durum-traditional-sish.jpg",
+                "menu_price": 110,
+                "menu_type": "nv",
+                "menu_available_qty": "1000",
+                "quantity": 1,
+                "gst": 7.70
+                
+            }
+        ]
+    }
+]
